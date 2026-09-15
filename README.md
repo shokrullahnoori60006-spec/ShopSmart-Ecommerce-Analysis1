@@ -49,13 +49,13 @@ Python • Pandas • NumPy • Matplotlib • Plotly • Jupyter Notebook
 ## Portfolio Visualizations
 
 ### Monthly Revenue Trend
-![Monthly Revenue](screenshots/monthly_revenue.png)
+![Monthly Revenue](monthly_revenue.png)
 
 ### Revenue by Category
-![Revenue by Category](screenshots/revenue_by_category.png)
+![Revenue by Category](revenue_by_category.png)
 
 ### Revenue by City
-![Revenue by City](screenshots/revenue_by_city.png)
+![Revenue by City](revenue_by_city.png)
 
 ## Project Structure
 ```text
